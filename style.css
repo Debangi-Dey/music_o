@@ -1,0 +1,13 @@
+.heading {
+    font-size: 18px;
+    width: 100%;
+}
+.note {
+    color: brown;
+    font-size: 15px;
+}
+
+body {
+    background: url("background.jpg");
+    background-size: cover;
+}
