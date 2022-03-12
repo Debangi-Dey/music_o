@@ -11,3 +11,9 @@ body {
     background: url("background.jpg");
     background-size: cover;
 }
+
+canvas {
+   
+    margin-top: 50px;
+    border: 4px dashed white;
+}
