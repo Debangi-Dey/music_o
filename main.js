@@ -61,6 +61,10 @@ function draw() {
             document.getElementById("SN").innerHTML = "Playing I know Places"
         }
     }
+    if (scoreRW > 0.2){
+    if (rightWX > 250 && rightWX < 350) {
+        song.stop()
+    }}
 }
 
 function Play() {
@@ -68,5 +72,5 @@ function Play() {
 }
 
 function Stop() {
-    song.stop()
+song.stop()
 }
